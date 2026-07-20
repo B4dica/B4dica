@@ -71,7 +71,7 @@ Conhecimento prático em ambiente controlado de testes de penetração e anális
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jo%C3%A3o-garcia-b10a2630a/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link-aqui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]((https://github.com/davidev-tech/project-consultoria-adriano.git))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/davidev-tech/project-consultoria-adriano.git)
 
 ---
 > *"Segurança não é um produto, é um processo — e começa na primeira linha de código."*
