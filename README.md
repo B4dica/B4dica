@@ -5,6 +5,8 @@
 ### Engenheiro de Software & Especialista em Cibersegurança
 *Construindo pontes seguras entre o frontend moderno e a infraestrutura protegida.*
 
+![Status](https://img.shields.io/badge/Status-Em%20busca%20de%20estágio-4CAF50?style=flat-square&logo=target&logoColor=white)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-garcia-b10a2630a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/davidev-tech/project-consultoria-adriano.git)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garciajoao406@gmail.com)
