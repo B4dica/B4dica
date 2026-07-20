@@ -82,7 +82,6 @@ Conhecimento prático em ambiente controlado de testes de penetração e anális
 Quer trocar uma ideia sobre desenvolvimento seguro, React ou cybersegurança? Me chama!
 
 📧 **Email:** [garciajoao406@gmail.com](mailto:garciajoao406@gmail.com)
-💼 **LinkedIn:** [João Garcia](https://www.linkedin.com/in/jo%C3%A3o-garcia-b10a2630a/)
 
 ---
 
