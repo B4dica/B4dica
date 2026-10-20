@@ -50,7 +50,7 @@ Enquanto construo aplicações React robustas no lado do software, aplico framew
 *Visão de compliance combinada com técnica.*
 - **Tríade CID:** Confidencialidade, Integridade e Disponibilidade
 - **Gestão de Riscos:** Tratamento e Mitigação de Riscos corporativos
-- **Monitoramento:** Operação e entendimento de `SIEM` (Splunk) e comportamento do analista de segurança (SOC)
+- **Monitoramento:** Operação e entendimento de `SIEM` (Wazuh) e comportamento do analista de segurança (SOC)
 - **Regulamentações & Compliance:**
     - 🇧🇷 **LGPD** (Lei Geral de Proteção de Dados)
     - 🇺🇸 **HIPAA** (Segurança em dados de saúde)
