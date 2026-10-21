@@ -68,6 +68,7 @@ Conhecimento prático em ambiente controlado de testes de penetração e anális
 | **Scapy** | Manipulação e criação de pacotes de rede customizados |
 | **Wireshark** | Análise forense de rede e captura de tráfego (PCAP) |
 | **Burp Suite** | Interceptação e teste de segurança em aplicações web |
+| **Wazuh** | Ativação e definição de agentes em seu painel CLI |
 
 ---
 
